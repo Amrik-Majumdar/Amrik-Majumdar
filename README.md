@@ -2,7 +2,7 @@
 
 # Amrik Majumdar
 
-**Student developer and researcher focused on computer science, machine learning, and engineering systems.**
+**Student developer focused on machine learning, robotics, automation, and research software.**
 
 <a href="mailto:majumdar.amrik@gmail.com">Email</a> ·
 <a href="https://www.linkedin.com/in/amrik-majumdar-6ba1612aa">LinkedIn</a> ·
@@ -14,42 +14,80 @@
 
 ## About
 
-I am a student developer and researcher interested in building intelligent systems that connect software, data, and the physical world. My main academic direction is computer science, with a strong interest in artificial intelligence, machine learning, robotics, and the mechanical engineering side of real systems.
+I build software projects that sit between computer science, applied machine learning, and engineering systems. My work is usually practical: a model that can be inspected, a dashboard that organizes a workflow, a browser tool that handles a real user constraint, or a simulation that makes a system easier to reason about.
 
-I am drawn to projects that require more than writing code that runs once. I care about defining the problem clearly, building a working prototype, testing it against real constraints, improving the design, and explaining the final result in a way that other people can actually use.
+I care about projects that are understandable after the code is written. That means clear setup instructions, visible tradeoffs, safe handling of private configuration, and documentation that explains what the project does without overstating it.
 
-My work generally sits at the intersection of applied machine learning, automation, mathematical modeling, and technical problem solving. I am especially interested in systems that are useful outside of a classroom, including tools for research, data analysis, computer vision, robotics, and community-focused technology.
+My current interests are machine learning, computer vision, robotics, automation, scientific computing, and tools that connect software with physical or human-centered systems.
 
 ---
 
-## Areas of Interest
+## Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Intelligent Systems
-Machine learning, computer vision, automation, and AI-driven tools that turn complex data into usable decisions.
+### [SwarmOS](https://github.com/Amrik-Majumdar/swarmos)
+
+Dashboard and backend interface for monitoring swarm-style system activity, alerts, data sources, and chat-style operational feedback.
+
+**Focus:** robotics systems, dashboards, backend APIs, stateful interfaces  
+**Stack:** TypeScript, React, Vite, FastAPI, Python
 
 </td>
 <td width="50%" valign="top">
 
-### Engineering and Robotics
-Robotics, control systems, simulation, mechanical design, and the connection between software and physical behavior.
+### [SAFEY](https://github.com/Amrik-Majumdar/SAFEY)
+
+Browser-based safety application with discreet interface flows, local storage, offline behavior, and privacy-focused interaction design.
+
+**Focus:** safety tools, local-first UX, browser storage, extension-style architecture  
+**Stack:** JavaScript, HTML, service workers, Web Crypto APIs
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Research Computing
-Mathematical modeling, scientific data analysis, image processing, and reproducible computational workflows.
+### [YOLO Vision Assistant](https://github.com/Amrik-Majumdar/yolo-vision-assistant)
+
+Computer vision project that combines browser interaction, object detection assets, and a small backend service for visual analysis experiments.
+
+**Focus:** object detection, browser-based ML interfaces, model runtime structure  
+**Stack:** JavaScript, Node.js, Python, ONNX, YOLO
 
 </td>
 <td width="50%" valign="top">
 
-### Technical Leadership
-Mentoring, STEM outreach, project organization, and building systems that make technical work easier for others to access.
+### [Alzheimer Stage Classification](https://github.com/Amrik-Majumdar/alzheimer-stage-classification)
+
+Machine learning notebook for disease stage classification, with public-safe documentation around data limits and model evaluation.
+
+**Focus:** healthcare AI experimentation, classification workflows, model evaluation  
+**Stack:** Python, Jupyter Notebook, machine learning libraries
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [CE Cop Agent](https://github.com/Amrik-Majumdar/ce-cop-agent)
+
+Compliance-tracking project for continuing education reminders, structured records, public pages, and service documentation.
+
+**Focus:** workflow automation, compliance records, static product interface  
+**Stack:** HTML, CSS, JavaScript, documentation
+
+</td>
+<td width="50%" valign="top">
+
+### [Monte Carlo Portfolio Simulator](https://github.com/Amrik-Majumdar/monte-carlo-portfolio-simulator)
+
+Python simulation workflow for modeling portfolio outcomes across repeated trials and comparing risk patterns.
+
+**Focus:** numerical simulation, finance modeling, uncertainty analysis  
+**Stack:** Python, NumPy, pandas, matplotlib
 
 </td>
 </tr>
@@ -64,20 +102,24 @@ Mentoring, STEM outreach, project organization, and building systems that make t
 <td width="33%" valign="top">
 
 ### Languages
+
 Python  
-Java  
 JavaScript  
+TypeScript  
+Java  
 SQL  
-HTML  
-CSS  
+HTML/CSS  
 
 </td>
 <td width="33%" valign="top">
 
 ### Libraries and Frameworks
+
+React  
+FastAPI  
+Node.js  
 PyTorch  
 TensorFlow  
-Node.js  
 OpenCV  
 pandas  
 NumPy  
@@ -85,13 +127,15 @@ NumPy
 </td>
 <td width="33%" valign="top">
 
-### Tools and Methods
-Git  
-Machine Learning  
-Computer Vision  
-Data Analysis  
-Image Analysis  
+### Methods
+
+Machine learning  
+Computer vision  
 Simulation  
+Data analysis  
+API design  
+Frontend prototyping  
+Documentation  
 
 </td>
 </tr>
@@ -99,66 +143,21 @@ Simulation
 
 ---
 
-## How I Build
+## How I Approach Projects
 
-I try to approach technical work with the same structure each time:
+1. Start with the problem and the constraints.
+2. Build the smallest working version that proves the direction.
+3. Separate private configuration and data from public code.
+4. Make the repository understandable for another developer.
+5. Document limitations clearly so the project is easier to evaluate.
 
-1. Understand the real problem before choosing the tools.
-2. Build a simple version that works.
-3. Test it against edge cases, messy data, or real user constraints.
-4. Improve the design only when the improvement makes the system more useful.
-5. Document the result so someone else can understand what was built and why.
-
-This matters to me because a project is not finished when the code runs. It is finished when the problem is clearer, the result is reliable, and another person can use or build on the work.
+I do not think a project is finished just because the code runs locally. A stronger project has readable structure, reproducible setup steps, and honest documentation of what is implemented, what is missing, and what would come next.
 
 ---
 
 ## Current Direction
 
-I am continuing to study computer science while exploring mechanical engineering and robotics as a way to connect computational systems with the physical world.
-
-Long term, I am interested in building technology that supports research, engineering, and human-centered problem solving. I want my work to combine strong technical depth with practical impact, especially in areas where data, modeling, automation, and real-world systems overlap.
-
----
-
-## Repository Focus
-
-My GitHub is being organized around projects that reflect the way I work:
-
-<table>
-<tr>
-<td width="25%" valign="top">
-
-**Applied AI**
-
-Models and pipelines for classification, prediction, and data interpretation.
-
-</td>
-<td width="25%" valign="top">
-
-**Automation**
-
-Tools that reduce repetitive work and make workflows more reliable.
-
-</td>
-<td width="25%" valign="top">
-
-**Robotics and Systems**
-
-Projects involving simulation, control, agents, and physical-world behavior.
-
-</td>
-<td width="25%" valign="top">
-
-**Research Tools**
-
-Code for analysis, visualization, experimentation, and reproducible results.
-
-</td>
-</tr>
-</table>
-
-As I continue cleaning and publishing my work, I am prioritizing repositories with clear README files, reproducible setup instructions, organized code, and honest documentation of limitations.
+I am continuing to build projects across applied AI, robotics systems, and research computing. I am especially interested in work where software needs to make messy real-world information clearer: visual input, scientific data, operational signals, or user workflows that require careful design.
 
 ---
 
@@ -166,4 +165,4 @@ As I continue cleaning and publishing my work, I am prioritizing repositories wi
 
 Email: [majumdar.amrik@gmail.com](mailto:majumdar.amrik@gmail.com)  
 LinkedIn: [linkedin.com/in/amrik-majumdar-6ba1612aa](https://www.linkedin.com/in/amrik-majumdar-6ba1612aa)  
-Location: Herndon, Virginia
+GitHub: [github.com/Amrik-Majumdar](https://github.com/Amrik-Majumdar)
