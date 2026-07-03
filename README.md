@@ -4,10 +4,8 @@
 
 **Student developer focused on machine learning, robotics, automation, and research software.**
 
-<a href="mailto:majumdar.amrik@gmail.com">Email</a> ·
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=majumdar.amrik@gmail.com">Gmail Compose</a> ·
-<a href="https://www.linkedin.com/in/amrik-majumdar-6ba1612aa">LinkedIn</a> ·
-<a href="https://github.com/Amrik-Majumdar">GitHub</a>
+[Email](mailto:majumdar.amrik@gmail.com) ·
+[LinkedIn](https://www.linkedin.com/in/amrik-majumdar-6ba1612aa)
 
 </div>
 
@@ -154,6 +152,4 @@ I am continuing to build projects across applied AI, robotics systems, and resea
 ## Contact
 
 Email: [majumdar.amrik@gmail.com](mailto:majumdar.amrik@gmail.com)  
-Gmail Compose: [open draft](https://mail.google.com/mail/?view=cm&fs=1&to=majumdar.amrik@gmail.com)  
-LinkedIn: [linkedin.com/in/amrik-majumdar-6ba1612aa](https://www.linkedin.com/in/amrik-majumdar-6ba1612aa)  
-GitHub: [github.com/Amrik-Majumdar](https://github.com/Amrik-Majumdar)
+LinkedIn: [linkedin.com/in/amrik-majumdar-6ba1612aa](https://www.linkedin.com/in/amrik-majumdar-6ba1612aa)
