@@ -23,7 +23,7 @@ My current interests are machine learning, computer vision, robotics, automation
 
 ## Work Themes
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
@@ -70,7 +70,7 @@ This includes both small focused scripts and larger workflows that could become 
 
 ## Technical Toolkit
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
