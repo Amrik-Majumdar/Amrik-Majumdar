@@ -5,6 +5,7 @@
 **Student developer focused on machine learning, robotics, automation, and research software.**
 
 <a href="mailto:majumdar.amrik@gmail.com">Email</a> ·
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=majumdar.amrik@gmail.com">Gmail Compose</a> ·
 <a href="https://www.linkedin.com/in/amrik-majumdar-6ba1612aa">LinkedIn</a> ·
 <a href="https://github.com/Amrik-Majumdar">GitHub</a>
 
@@ -73,7 +74,7 @@ This includes both small focused scripts and larger workflows that could become 
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### Languages
 
@@ -85,7 +86,7 @@ SQL
 HTML/CSS  
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### Libraries and Frameworks
 
@@ -99,9 +100,11 @@ pandas
 NumPy  
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Methods
+### Applied Methods
 
 Machine learning  
 Computer vision  
@@ -110,6 +113,19 @@ Data analysis
 API design  
 Frontend prototyping  
 Documentation  
+
+</td>
+<td width="50%" valign="top">
+
+### Engineering Practices
+
+Public-safe configuration  
+Repository cleanup  
+Environment setup  
+Workflow documentation  
+Model and data boundaries  
+Local-first prototypes  
+Readable handoff notes  
 
 </td>
 </tr>
@@ -138,5 +154,6 @@ I am continuing to build projects across applied AI, robotics systems, and resea
 ## Contact
 
 Email: [majumdar.amrik@gmail.com](mailto:majumdar.amrik@gmail.com)  
+Gmail Compose: [open draft](https://mail.google.com/mail/?view=cm&fs=1&to=majumdar.amrik@gmail.com)  
 LinkedIn: [linkedin.com/in/amrik-majumdar-6ba1612aa](https://www.linkedin.com/in/amrik-majumdar-6ba1612aa)  
 GitHub: [github.com/Amrik-Majumdar](https://github.com/Amrik-Majumdar)
