@@ -76,26 +76,18 @@ This includes both small focused scripts and larger workflows that could become 
 
 ### Languages
 
-Python  
-JavaScript  
-TypeScript  
-Java  
-SQL  
-HTML/CSS  
+Primary languages I use for notebooks, scripts, browser projects, backend APIs, and interface prototypes.
+
+Python, JavaScript, TypeScript, Java, SQL, HTML/CSS
 
 </td>
 <td width="50%" valign="top">
 
 ### Libraries and Frameworks
 
-React  
-FastAPI  
-Node.js  
-PyTorch  
-TensorFlow  
-OpenCV  
-pandas  
-NumPy  
+Tools I use for frontend interfaces, lightweight services, computer vision experiments, and data workflows.
+
+React, FastAPI, Node.js, PyTorch, TensorFlow, OpenCV, pandas, NumPy
 
 </td>
 </tr>
@@ -104,26 +96,18 @@ NumPy
 
 ### Applied Methods
 
-Machine learning  
-Computer vision  
-Simulation  
-Data analysis  
-API design  
-Frontend prototyping  
-Documentation  
+Areas where I am building stronger project depth across models, systems, analysis, and user-facing tools.
+
+Machine learning, computer vision, simulation, data analysis, API design, frontend prototyping, documentation
 
 </td>
 <td width="50%" valign="top">
 
 ### Engineering Practices
 
-Public-safe configuration  
-Repository cleanup  
-Environment setup  
-Workflow documentation  
-Model and data boundaries  
-Local-first prototypes  
-Readable handoff notes  
+Project habits I try to carry across repositories so the work is easier to inspect, run, and trust.
+
+Public-safe configuration, repository cleanup, environment setup, workflow documentation, model and data boundaries, local-first prototypes, readable handoff notes
 
 </td>
 </tr>
