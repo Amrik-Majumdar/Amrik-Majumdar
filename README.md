@@ -22,72 +22,46 @@ My current interests are machine learning, computer vision, robotics, automation
 
 ---
 
-## Selected Work
+## Work Themes
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [SwarmOS](https://github.com/Amrik-Majumdar/swarmos)
+### Applied Machine Learning
 
-Dashboard and backend interface for monitoring swarm-style system activity, alerts, data sources, and chat-style operational feedback.
+Projects that explore classification, computer vision, model evaluation, and data-driven workflows.
 
-**Focus:** robotics systems, dashboards, backend APIs, stateful interfaces  
-**Stack:** TypeScript, React, Vite, FastAPI, Python
+I try to keep these repositories honest about data limits, evaluation assumptions, and what would be needed for stronger reproducibility.
 
 </td>
 <td width="50%" valign="top">
 
-### [SAFEY](https://github.com/Amrik-Majumdar/SAFEY)
+### Robotics and Engineering Systems
 
-Browser-based safety application with discreet interface flows, local storage, offline behavior, and privacy-focused interaction design.
+Work involving dashboards, simulations, monitoring interfaces, autonomous behavior, and the connection between software and physical systems.
 
-**Focus:** safety tools, local-first UX, browser storage, extension-style architecture  
-**Stack:** JavaScript, HTML, service workers, Web Crypto APIs
+This area is where I am most interested in combining computer science with mechanical and systems-level thinking.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [YOLO Vision Assistant](https://github.com/Amrik-Majumdar/yolo-vision-assistant)
+### Automation and Practical Tools
 
-Computer vision project that combines browser interaction, object detection assets, and a small backend service for visual analysis experiments.
+Tools that reduce repetitive work, structure messy information, or make a workflow easier to inspect and improve.
 
-**Focus:** object detection, browser-based ML interfaces, model runtime structure  
-**Stack:** JavaScript, Node.js, Python, ONNX, YOLO
-
-</td>
-<td width="50%" valign="top">
-
-### [Alzheimer Stage Classification](https://github.com/Amrik-Majumdar/alzheimer-stage-classification)
-
-Machine learning notebook for disease stage classification, with public-safe documentation around data limits and model evaluation.
-
-**Focus:** healthcare AI experimentation, classification workflows, model evaluation  
-**Stack:** Python, Jupyter Notebook, machine learning libraries
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [CE Cop Agent](https://github.com/Amrik-Majumdar/ce-cop-agent)
-
-Compliance-tracking project for continuing education reminders, structured records, public pages, and service documentation.
-
-**Focus:** workflow automation, compliance records, static product interface  
-**Stack:** HTML, CSS, JavaScript, documentation
+I like projects where the value comes from clear process design as much as from the code itself.
 
 </td>
 <td width="50%" valign="top">
 
-### [Monte Carlo Portfolio Simulator](https://github.com/Amrik-Majumdar/monte-carlo-portfolio-simulator)
+### Research Computing
 
-Python simulation workflow for modeling portfolio outcomes across repeated trials and comparing risk patterns.
+Numerical modeling, analysis scripts, notebooks, and visualization workflows for understanding data and uncertainty.
 
-**Focus:** numerical simulation, finance modeling, uncertainty analysis  
-**Stack:** Python, NumPy, pandas, matplotlib
+This includes both small focused scripts and larger workflows that could become more formal research tools.
 
 </td>
 </tr>
