@@ -115,7 +115,7 @@ This matters to me because a project is not finished when the code runs. It is f
 
 ## Current Direction
 
-I am preparing to study computer science in college, while continuing to explore mechanical engineering and robotics as a way to connect computational systems with the physical world.
+I am continuing to study computer science while exploring mechanical engineering and robotics as a way to connect computational systems with the physical world.
 
 Long term, I am interested in building technology that supports research, engineering, and human-centered problem solving. I want my work to combine strong technical depth with practical impact, especially in areas where data, modeling, automation, and real-world systems overlap.
 
